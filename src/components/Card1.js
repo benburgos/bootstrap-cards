@@ -6,7 +6,7 @@ const Card1 = () => {
 return (
   <div className="card" style={ {width: "18rem"} }>
   <CardImage />
-  <CardBody/>
+  <CardBody />
 </div>
   );
 };
